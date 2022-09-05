@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Koub</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="ShouldNotBeEmpty">Username and password should not be empty!</string>
+
+    <string name="ActivityMainHello">Hello, Sign in or Register</string>
+    <string name="ActivityMainSignIn">Sign In</string>
+    <string name="ActivityMainRegister">Register</string>
+    <string name="ActivityMainRememberMe">Remember Me</string>
+    <string name="ActivityMainFail">Login failed. Check your credentials.</string>
+
+    <string name="MainScreenProfile">Profile</string>
+    <string name="MainScreenShare">Share</string>
+    <string name="MainScreenLogout">Logout</string>
+    <string name="MainScreenLoadError">Error occurred when loading data from database</string>
+
+    <string name="AddScreenSelect">Select Image</string>
+    <string name="AddScreenName">Name</string>
+    <string name="AddScreenDate">Date</string>
+    <string name="AddScreenSave">Add Photo</string>
+    <string name="AddScreenPermissionNeed">Permission is for gallery</string>
+    <string name="AddScreenGrantPermission">Grant Permission</string>
+    <string name="AddScreenNoPhoto">Post with no photo not allowed</string>
+    <string name="AddScreenUploadFailed">Upload Failed</string>
+
+    <string name="SignupScreenText">Please fill form to register</string>
+    <string name="SignupScreenVerifyPass">Verify Password</string>
+    <string name="SignupScreenFailSignup">Registration Failed</string>
+
+    <string name="PREFUSERNAMEKEY">PreferencesUsernameKey</string>
+</resources>
